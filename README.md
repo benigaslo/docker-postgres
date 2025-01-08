@@ -13,6 +13,8 @@ Ir a la carpeta donde está el `docker-compose.yml` y ejecutar:
 docker compose up
 ```
 
+<br>
+
 ## Uso
 
 Navegar a http://localhost:8080.

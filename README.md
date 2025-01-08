@@ -1,13 +1,5 @@
 # docker-postgres
 
-## Prerequisitos
-Otorgar permisos para ejecutar docker:
-
-```
-dockerd-rootless-setuptool.sh install
-```
-<br>
-
 ## Instalación
 
 Descargar [docker-compose.yml](https://github.com/benigaslo/docker-postgres/raw/main/docker-compose.yml)
@@ -15,7 +7,7 @@ Descargar [docker-compose.yml](https://github.com/benigaslo/docker-postgres/raw/
 <br>
 
 ## Iniciar servicios
-Ir a la carpeta donde está el docker-compose.yml y ejecutar:
+Ir a la carpeta donde está el `docker-compose.yml` y ejecutar:
 
 ```
 docker compose up
